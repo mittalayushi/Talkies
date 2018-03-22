@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "795583564833",
+    "firebase_url": "https://talkies-6f47d.firebaseio.com",
+    "project_id": "talkies-6f47d",
+    "storage_bucket": "talkies-6f47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795583564833:android:289dfb9f8853e93c",
+        "android_client_info": {
+          "package_name": "com.example.ayushimittal.talkies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795583564833-5pq3l99hasmobrncf2nlpckue78l3jvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayushimittal.talkies",
+            "certificate_hash": "67fa9269c91c8af9b43c6997a5b6f6f8f3c80b5d"
+          }
+        },
+        {
+          "client_id": "795583564833-7kooknqh5rissvh7jmcig40h1o00e4vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60O5GwtJwEk-v297Nwi0doZzwUOcNgSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795583564833-7kooknqh5rissvh7jmcig40h1o00e4vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
